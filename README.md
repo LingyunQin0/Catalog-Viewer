@@ -1,5 +1,3 @@
-![4fc04996e17e03b9b4f7339223b181b](https://github.com/user-attachments/assets/fc59e7d0-bdf2-4505-9338-8dd74f62a834)# CatalogViewer
-
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.7.
 
 ## Development server
